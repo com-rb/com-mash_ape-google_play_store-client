@@ -2,6 +2,9 @@
 
 source "https://rubygems.org"
 
+# Specify your dependencies in com-mash_ape-google_play_store-client.gemspec
+gemspec
+
 group :test do
 end
 
