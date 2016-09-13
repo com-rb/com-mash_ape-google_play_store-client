@@ -1,0 +1,3 @@
+--color
+--require spec_helper
+--require com-mash_ape-google_play_store-client_helper
